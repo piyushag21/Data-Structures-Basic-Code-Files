@@ -250,8 +250,6 @@ int main()
     reverse(&head);
     print(head);
     cout << "\n";
-  //  check_palin(&head , length);
-
     
   //  deletekey(&head , 5);
  //   deletelist(&head);
@@ -270,13 +268,3 @@ int main()
    cout << temp->data; 
 
 }
-/*
-#include<iostream>
-using namespace std;
-
-int main()
-{
-    int n;
-    cin >> n;
-    cout << n;
-}*/
