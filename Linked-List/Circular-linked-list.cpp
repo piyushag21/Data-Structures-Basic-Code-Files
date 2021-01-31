@@ -7,7 +7,6 @@ class Node
     int data;
     Node *next;
 };
-// function to add element at the start of list 
 
 void push(Node** head_ref , int new_value)
 {
